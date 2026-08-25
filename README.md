@@ -1,17 +1,17 @@
-# Hitman Bot
+# Robinhood CLI
 
-Hitman Bot is the first open source sniping bot for Robinhood Chain
+This is the first open source sniping bot for Robinhood Chain
 
-This program creates a first working Robinhood Chain program (**Hitman Bot**). It supports manual contract-address swaps through Uniswap V2 on Robinhood Chain, with optional Telegram bot control.
+This program creates a first working Robinhood Chain program. It supports manual contract-address swaps through Uniswap V2 on Robinhood Chain, with optional Telegram bot control.
 
-![Hitman Bot](assets/hitman-logo.png)
+![Robinhood CLI](assets/hitman-logo.png)
 
 ## Fastest Local Setup
 
 For a user who downloads this repo and wants their own Telegram bot:
 
 1. Install Node.js LTS from `https://nodejs.org`.
-2. Double-click `START-HITMAN-BOT.bat`.
+2. Double-click `START-ROBINHOOD-CLI.bat`.
 3. Follow the BotFather/token prompts.
 4. Open your own Telegram bot link and press `Start`.
 

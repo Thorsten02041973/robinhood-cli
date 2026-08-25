@@ -1,15 +1,15 @@
 {
-  "name": "hitman-bot",
-  "version": "0.3.1",
-  "description": "Hitman Bot — Robinhood Chain DeFi CLI by 0xAntoniPL",
+  "name": "robinhood-cli",
+  "version": "1.3.1",
+  "description": "Robinhood CLI — Robinhood Chain DeFi CLI by 0xAntoniPL",
   "author": "0xAntoniPL",
   "bin": {
-    "hitman": "./bin/run"
+    "robinhood": "./bin/run"
   },
-  "homepage": "https://github.com/0xAntoniPL/hitman-bot",
+  "homepage": "https://github.com/Thorsten02041973/robinhood-cli",
   "license": "MIT",
   "main": "dist/index.js",
-  "repository": "0xAntoniPL/hitman-bot",
+  "repository": "Thorsten02041973/robinhood-cli",
   "files": [
     "/bin",
     "/dist",
@@ -80,8 +80,8 @@
     "winston-daily-rotate-file": "^4.5.5"
   },
   "oclif": {
-    "bin": "hitman",
-    "dirname": "hitman-bot",
+    "bin": "robinhood",
+    "dirname": "robinhood-cli",
     "commands": "./dist/commands",
     "default": "start",
     "plugins": [
@@ -108,7 +108,7 @@
   "engines": {
     "node": ">=12.0.0"
   },
-  "bugs": "https://github.com/0xAntoniPL/hitman-bot/issues",
+  "bugs": "https://github.com/Thorsten02041973/robinhood-cli/issues",
   "keywords": [
     "oclif"
   ],
