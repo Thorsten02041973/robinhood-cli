@@ -25,7 +25,7 @@
     "@oclif/plugin-plugins": "^2.0.1",
     "@oclif/plugin-warn-if-update-available": "^2.0.4",
     "abi-decoder": "^2.4.0",
-    "oscar-redis": "^5.11.2",
+    "oracle-redis": "^5.11.2",
     "better-sqlite3": "^12.11.1",
     "bn.js": "^5.2.0",
     "chalk": "^4.1.2",
